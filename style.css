@@ -1,0 +1,27 @@
+#wrapper
+{
+	text-align: center;
+	margin-top:2%;
+	margin-bottom: 5%;
+	background: url('../images/background.jpg') no-repeat;
+	height: 95%;
+	width: 95%;
+}
+
+#wrapper > div > h1 > a
+{
+	text-decoration: underline;
+}
+#heading
+{
+	margin-top:3%;
+}
+#imageWrapper{
+	background-color: white;
+}
+#ww
+{
+	margin-top: 1%;
+	width:100%;
+}
+
